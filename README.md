@@ -2,7 +2,7 @@
 A modern weather intelligence dashboard built with React + Vite, integrating the Weather-AI API to deliver real-time weather data, forecasts, and AI-powered insights based on user-selected locations.
 
 # 🚀 Live Demo
-👉 https://your-live-link-here.com
+👉 https://weatherlensai.netlify.app
 
 ## 📸 Preview
 Add screenshots here (recommended for submission)
@@ -62,7 +62,7 @@ https://api.weather-ai.co/v1
 # ⚙️ Setup Instructions
 - 1. Clone the repository
 
-  git clone https://github.com/your-username/weather-ai-dashboard.git
+  git clone https://github.com/mohammed-mbarak/weatherlens-ai
   cd weather-ai-dashboard
 
 - 2. Install dependencies
