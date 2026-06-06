@@ -4,12 +4,6 @@ A modern weather intelligence dashboard built with React + Vite, integrating the
 # 🚀 Live Demo
 👉 https://weatherlensai.netlify.app
 
-## 📸 Preview
-Add screenshots here (recommended for submission)
-
-/screenshots/home.png
-/screenshots/forecast.png
-/screenshots/insights.png
 
 ## 📌 Features
 - 🔍 City-based weather search (geo resolution API)
