@@ -208,3 +208,23 @@ netlify/
 - Geo lookup decouples city names from weather API
 - Proxy layer handles CORS and keeps API key server-side
 - Loading states ensure smooth UX transitions
+
+## Assessment Objective
+
+This project was developed for the Weather-AI Integration Challenge and demonstrates:
+
+- API consumption
+- State management
+- Production deployment
+- Error handling
+- Secure API integration
+- Frontend architecture
+
+
+## Future Improvements
+
+- Weather alerts and notifications
+- Historical weather trends
+- Interactive weather maps
+- Offline caching
+- AI insights support for Pro accounts
